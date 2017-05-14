@@ -22,7 +22,7 @@ def computeOverAllDist(rdd0):
           'SortedVals':SortedVals,\
           'low100':low100,\
           'high100':high100,\
-          'low1000':low100,\
+          'low1000':low1000,\
           'high1000':high1000
           }
 # description of data returned by computeOverAllDist
