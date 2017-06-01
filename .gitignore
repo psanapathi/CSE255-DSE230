@@ -2,3 +2,7 @@
 .ipynb_checkpoints
 *~
 Data/Weather/*
+Data/*
+*.zip
+Classes/2.PCA/Final report - Weather analysis (ND & MN).ipynb
+Classes/HW-6/
